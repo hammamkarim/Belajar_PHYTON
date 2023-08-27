@@ -9,9 +9,12 @@ Bahasa Phyton menjadi bahasa pemrograman yang sangat populer karena memiliki sej
 #IMG#
 #MG#
 
-# Apa yang Dibutuhkan untuk Mulai menggunakan Phyton
+# Apa yang Dibutuhkan untuk Mulai mMnggunakan Phyton
 1. Phyton itu sendiri
+Sebelum mengerjakan suatu project menuggunakan bahasa Phyton, diperlukan untuk mengunduh dan menginstal Phyton itu sendiri di suatu perangkat.
 2. IDE
+IDE adalah perangkat lunak yang dirancang khusus untuk membantu pengembang dalam menulis, mengedit, menguji, dan mengelola kode. Ada banyak IDE Python yang tersedia, yang dapat membantu dalam mengembangkan program dengan lebih efisien. Contoh : PyCharm, Visual Studio Code (VSCode), Jupyter Notebook.
 3. Interactive Phyton shell
-Digunakan untuk mengeksekusi perintah phyton secara langsung dan melihat hasilnya.
+Digunakan untuk mengeksekusi perintah phyton secara langsung dan melihat hasilnya secara langsung. Ini adalah cara yang baik untuk menguji kode kecil, menjalankan percobaan cepat, dan memahami cara Python bekerja, dan dapat diakses dengan menjalankan perintah python dari terminal atau dengan menggunakan IDE yang memiliki fitur shell interaktif.
 4. Text Editor
+perangkat lunak yang digunakan untuk menulis dan mengedit kode Python. Meskipun IDE merupakan pilihan yang kuat untuk pengembangan Python yang kompleks, beberapa pengembang lebih suka menggunakan text editor sederhana untuk proyek-proyek kecil atau untuk pengkodean yang lebih ringan. Adapun contoh dari text editor antara lain : Visual Studio Code (VSCode), Sublime Text, ATOM.
