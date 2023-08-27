@@ -1,0 +1,17 @@
+# Apa itu Phyton ?
+
+## Pengenalan
+Phyton adalah salah satu bahasa pemrograman tingkat tinggi yang biasanya digunakan untuk mengembangkan perangkat lunak (web development, moblie apps, dekstop apps). Bahasa Phyton cenderung lebih mudah dimengerti dibanding kebanyakan bahasa pemrograman yang lain, sehingga hal tersebut membuat bahasa Phyton banyak digemari. Bahasa Phyton juga merupakan bahasa yang bersifat dinamis yang memungkinkan untuk mengubah tipe data variabel dan menghubungkan fungsi dengan objek pada saat runtime (program sedang berjalan). Phyton juga bisa digunakan untuk data Science, Robotics, Machine Learning, Data Analysis, dan Artificial Intelligent (AI).
+
+## Kenapa Phyton Bisa Populer ?
+Bahasa Phyton menjadi bahasa pemrograman yang sangat populer karena memiliki sejumlah fitur dan keunggulan yang membuatnya menjadi suatu pilihan untuk mengembangkan suatu project. Salah satu contohnya adalah karena bahasa Phyton merupakan bahasa yang cenderung lebih mudah dipahami dibanding kebanyakan bahasa pemrograman yang lain, seperti ketika ingin menampilkan tulisan "Hello World" syntax yang ada pada Phyton untuk meampilkan tulisan tersebut cenderung lebih singkat daripada kebanyakan bahasa pemrograman yang lain, contohnya seperti berikut :
+#IMG#
+#IMG#
+#MG#
+
+# Apa yang Dibutuhkan untuk Mulai menggunakan Phyton
+1. Phyton itu sendiri
+2. IDE
+3. Interactive Phyton shell
+Digunakan untuk mengeksekusi perintah phyton secara langsung dan melihat hasilnya.
+4. Text Editor
